@@ -1,24 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <SchemaVersion>2.0</SchemaVersion>
-    <ProjectTypeGuids>{416D63FD-0477-49AA-A954-A7C5B95A9B51};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <ProjectGuid>{53ABDC3A-1735-4493-9599-1DE7A32CD001}</ProjectGuid>
+    <ProjectGuid>{87A5984B-9958-4992-93E7-004A9C31BB18}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LZH.K3.SCZZ.SCGL.SCDD</RootNamespace>
-    <AssemblyName>LZH.K3.SCZZ.SCGL.SCDD</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>LZH.GF.SCGL.SCDD.RELEASE</RootNamespace>
+    <AssemblyName>LZH.GF.SCGL.SCDD.RELEASE</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\..\..\..\..\..\Program Files %28x86%29\Kingdee\K3Cloud\WebSite\bin\</OutputPath>
+    <OutputPath>bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -33,56 +32,57 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Kingdee.BOS">
-      <HintPath>E:\Cloud\02.DLL\Kingdee.BOS.dll</HintPath>
-    </Reference>
-    <Reference Include="Kingdee.BOS.AI, Version=7.6.2003.9, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\标准程序\ERP\K3Cloud\DLL\Kingdee.BOS.AI.dll</HintPath>
+      <HintPath>..\..\..\..\K3dll\Kingdee.BOS.dll</HintPath>
     </Reference>
     <Reference Include="Kingdee.BOS.App">
-      <HintPath>E:\Cloud\02.DLL\Kingdee.BOS.App.dll</HintPath>
+      <HintPath>..\..\..\..\K3dll\Kingdee.BOS.App.dll</HintPath>
     </Reference>
-    <Reference Include="Kingdee.BOS.App.Core, Version=7.6.2003.9, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\标准程序\ERP\K3Cloud\DLL\Kingdee.BOS.App.Core.dll</HintPath>
+    <Reference Include="Kingdee.BOS.App.Core">
+      <HintPath>..\..\..\..\K3dll\Kingdee.BOS.App.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.Business.Bill">
+      <HintPath>..\..\..\..\K3dll\Kingdee.BOS.Business.Bill.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.BOS.Business.PlugIn">
+      <HintPath>..\..\..\..\K3dll\Kingdee.BOS.Business.PlugIn.dll</HintPath>
     </Reference>
     <Reference Include="Kingdee.BOS.BusinessEntity">
-      <HintPath>E:\Cloud\02.DLL\Kingdee.BOS.BusinessEntity.dll</HintPath>
+      <HintPath>..\..\..\..\K3dll\Kingdee.BOS.BusinessEntity.dll</HintPath>
     </Reference>
     <Reference Include="Kingdee.BOS.Contracts">
-      <HintPath>E:\Cloud\02.DLL\Kingdee.BOS.Contracts.dll</HintPath>
+      <HintPath>..\..\..\..\K3dll\Kingdee.BOS.Contracts.dll</HintPath>
     </Reference>
     <Reference Include="Kingdee.BOS.Core">
-      <HintPath>E:\Cloud\02.DLL\Kingdee.BOS.Core.dll</HintPath>
+      <HintPath>..\..\..\..\K3dll\Kingdee.BOS.Core.dll</HintPath>
     </Reference>
     <Reference Include="Kingdee.BOS.DataEntity">
-      <HintPath>E:\Cloud\02.DLL\Kingdee.BOS.DataEntity.dll</HintPath>
+      <HintPath>..\..\..\..\K3dll\Kingdee.BOS.DataEntity.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.K3.MFG.App">
+      <HintPath>..\..\..\..\K3dll\Kingdee.K3.MFG.App.dll</HintPath>
+    </Reference>
+    <Reference Include="Kingdee.K3.MFG.PRD.App.Core">
+      <HintPath>..\..\..\..\K3dll\Kingdee.K3.MFG.PRD.App.Core.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\Cloud\02.DLL\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\..\..\K3dll\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
-    <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="Microsoft.Analytics.Interfaces" />
-    <Reference Include="Microsoft.Analytics.Interfaces.Streaming" />
-    <Reference Include="Microsoft.Analytics.Types" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ThreeNotAllowed.cs" />
+    <Compile Include="ReleaseValidator.cs" />
+    <Compile Include="ThreeAndAllSet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
-       Other similar extension points exist, see Microsoft.Common.targets.
-  <Target Name="BeforeBuild">
-  </Target>
-  <Target Name="AfterBuild">
-  </Target>
-  -->
 </Project>

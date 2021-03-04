@@ -1,0 +1,27 @@
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\BHM.SLM.SCP.GYSPT.BDCJ.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\BHM.SLM.SCP.GYSPT.BDCJ.pdb
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.AI.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.App.Core.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.App.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.App.KDSService.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.Business.Bill.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.Business.PlugIn.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.Contracts.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.Core.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.DataEntity.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.Excel.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.Mobile.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.Model.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.BOS.ServiceHelper.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Kingdee.K3.SCM.SCP.Business.PlugIn.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Microsoft.Analytics.Interfaces.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Microsoft.Analytics.Types.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\bin\Debug\Oracle.DataAccess.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\obj\Debug\BHM.SLM.SCP.GYSPT.BDCJ.csproj.CoreCompileInputs.cache
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\obj\Debug\BHM.SLM.SCP.GYSPT.BDCJ.csproj.CopyComplete
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\obj\Debug\BHM.SLM.SCP.GYSPT.BDCJ.dll
+E:\Cloud\BHM.SLM.SCP.GYSPT.BDCJ\BHM.SLM.SCP.GYSPT.BDCJ\obj\Debug\BHM.SLM.SCP.GYSPT.BDCJ.pdb
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\BHM.SLM.SCP.GYSPT.BDCJ.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\BHM.SLM.SCP.GYSPT.BDCJ.pdb

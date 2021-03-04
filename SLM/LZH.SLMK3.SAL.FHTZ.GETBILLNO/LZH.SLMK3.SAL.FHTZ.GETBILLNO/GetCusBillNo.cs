@@ -21,9 +21,9 @@ namespace LZH.SLMK3.SAL.FHTZ.GETBILLNO
 
             string strRulesID = dyObj["FBillNoRules_Id"].ToString();
 
-            string strDeliveryNo = this.Model.GetValue("FDeliveryNo").ToString();
+            string strDeliveryNo = this.View.Model.GetValue("FDeliveryNo") == null ? "" : this.Model.GetValue("FDeliveryNo").ToString(); 
 
-            string strFNumber = this.Model.GetValue("FBillNo").ToString();
+            string strFNumber = this.View.Model.GetValue("FBillNo") == null ? "" : this.Model.GetValue("FBillNo").ToString();
 
             Dictionary<string, object> dctBillNoOption = new Dictionary<string, object>();
             dctBillNoOption["CodeTime"] = 0;

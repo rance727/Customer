@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LZH.SLMK3.SAL.FHTZ.GETBILLNO", "LZH.SLMK3.SAL.FHTZ.GETBILLNO\LZH.SLMK3.SAL.FHTZ.GETBILLNO.csproj", "{ED6A06F0-8691-42F4-A61C-4937C454AD4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED6A06F0-8691-42F4-A61C-4937C454AD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6A06F0-8691-42F4-A61C-4937C454AD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6A06F0-8691-42F4-A61C-4937C454AD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6A06F0-8691-42F4-A61C-4937C454AD4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A7D507-8559-4584-B637-06005DB30385}
+	EndGlobalSection
+EndGlobal
